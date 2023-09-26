@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+  font-family: serif;
+  margin-left: 50px;
+}
+
+h1 {
+  font-size: 20pt;
+  margin-top: 40px;
+}
+h2 {
+  font-size: 15pt;
+}
+p {
+  font-size: 12pt;
+  margin-right: 50px;
+}
